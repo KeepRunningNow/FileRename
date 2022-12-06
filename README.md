@@ -1,4 +1,4 @@
-# FileRename 批量更名，文件重命名工具
+# FileRename 跨平台批量更名，文件重命名工具
 使用方法一：
 
 参数形式示例：` rename  "d:\test"  "www.baidu.com","" `
